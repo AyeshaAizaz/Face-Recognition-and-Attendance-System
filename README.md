@@ -10,7 +10,7 @@ This project is a Face Recognition & Attendance System developed in PyCharm usin
 ![image](https://github.com/AyeshaAizaz/Face-Recognition-and-Attendance-System/assets/80071272/342461c9-9b55-4103-bdea-cbba305335f4) <br>
 ![image](https://github.com/AyeshaAizaz/Face-Recognition-and-Attendance-System/assets/80071272/9ca8c7ea-9ee4-4b20-82fa-73785297e04b) <br>
 ![image](https://github.com/AyeshaAizaz/Face-Recognition-and-Attendance-System/assets/80071272/34756f0f-be1b-42d2-80a0-8690888d685d) <br>
-![image](https://github.com/AyeshaAizaz/Face-Recognition-and-Attendance-System/assets/80071272/6d63892b-ad38-490f-a37a-78b0b17932f8) <br>
+![311437246-6d63892b-ad38-490f-a37a-78b0b17932f8](https://github.com/AyeshaAizaz/Face-Recognition-and-Attendance-System/assets/80071272/c7a68ae6-446a-4ffa-9b50-94eafb7a85d0) <br>
 ![image](https://github.com/AyeshaAizaz/Face-Recognition-and-Attendance-System/assets/80071272/1666ace7-41b1-4d01-a14a-05b791535929) <br>
 
 **Features** <br>
